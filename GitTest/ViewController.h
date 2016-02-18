@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 @property(assign,nonatomic)int key;
-
+@property(assign,nonatomic)int key1;
 @end
 
